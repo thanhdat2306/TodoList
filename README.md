@@ -11,6 +11,3 @@ This is a modern and dynamic Todo application built with Laravel and Vue.js, uti
 - User Authentication: Secure user registration and login system to manage personal task lists.
 - Clean UI/UX: Modern and intuitive user interface ensuring a great user experience.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
