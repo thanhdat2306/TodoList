@@ -1,6 +1,6 @@
 ## Overview
 
-This is a modern and dynamic Todo application built with Laravel and Vue.js, utilizing Axios for seamless and efficient data handling. The application features a responsive and interactive interface, allowing users to manage their tasks without the need for page refreshes.
+This is a modern and dynamic Todo application built with Laravel and Vue.js. The application features a responsive and interactive interface, allowing users to manage their tasks without the need for page refreshes.
 
 ## Features
 
